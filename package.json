@@ -1,0 +1,19 @@
+{
+  "name": "evernow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.0.1",
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "jimp": "^0.12.1",
+    "klasa": "github:dirigeants/klasa",
+    "node-gyp": "^6.1.0"
+  }
+}
